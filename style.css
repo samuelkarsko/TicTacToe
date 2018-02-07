@@ -1,0 +1,12 @@
+
+.field {
+	background-color: grey;
+	height: 100px;
+	width: 100px;
+	border: solid medium black;
+	margin: -3px;
+}
+
+#centertable{
+	margin: auto;
+}
